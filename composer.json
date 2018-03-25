@@ -1,5 +1,5 @@
 {
-    "name": "payum/payum-laravel-package",
+    "name": "ronydebnath/payum-laravel-package",
     "type": "library",
     "description": "Rich payment solutions for Laravel framework. Paypal, payex, authorize.net, be2bill, omnipay, recurring paymens, instant notifications and many more",
     "keywords": [
@@ -38,7 +38,7 @@
         "illuminate/container": "^4|^5.1",
         "illuminate/routing": "^4|^5.1",
         "illuminate/support": "^4|^5.1",
-        "payum/core": "^1"
+        "payum/core": "^1.*"
     },
     "suggest": {
         "payum/paypal-express-checkout-nvp": "If you want to use paypal express checkout nvp gateway",
